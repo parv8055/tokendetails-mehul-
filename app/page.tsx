@@ -8,8 +8,6 @@ import { FiTwitter } from "react-icons/fi";
 import { BsGlobe } from "react-icons/bs";
 import { RiDiscordLine } from "react-icons/ri";
 import { ReactNode } from "react";
-import * as CurrencyFormat from "react-currency-format";
-import DateDisplay from "@/components/DateDisplay";
 
 function Player() {
   return (
